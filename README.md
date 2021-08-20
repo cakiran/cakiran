@@ -1,4 +1,4 @@
-- **Happy to see you here!** :star_struck: <br>
+- **Happy to see you here!**<br>
 - 👋 Hi, I’m Kiran Augustin
  The green dots on my [**GitHub** profile](https://github.com/cakiran) represent my journey :running_man:
 - 👀 I’m interested in Asp.net Core, Asp.net Web API, React JS Web Development and also Data Science projects.
