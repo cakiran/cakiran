@@ -10,10 +10,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132240958-2927d551-97db-466e-8d99-5841b73033bb.png" title="npm"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/12031984/132241422-11752e78-cd28-46cc-a95b-cf088a52ffa0.png" title="Bootstrap"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="GIT"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132238632-822f4fcd-fe40-4381-bcaa-7fb2ce9927c6.png" title="Visual Studio"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132237820-97ae9ed1-3fbe-47e9-8f13-b6d0f542b95a.jpg" title="Sql Server"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/12031984/132241564-38755723-a38a-4181-bea3-e01cc14c91fa.png" title="Oracle"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132238028-4b392094-5fbb-471d-8168-1b30780e6beb.png" title="uUnit"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132239065-14441bfc-861f-4563-a0a7-377ce79b9a0c.png" title="VS Code"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132241087-4838a706-8b27-4a9c-95e0-1bf70367a3b9.png" title="Microsoft Azure"></code>
