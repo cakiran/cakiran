@@ -4,6 +4,7 @@
 **Languages and Tools:**<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" title="AspNet"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132237543-a4b6e034-d821-4ac8-994e-11750f6fc49e.jpg" title=".NET Core"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/12031984/132241828-7327d866-e20d-436f-8460-9173f14ac84c.png" title="C#"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/12031984/132240797-88084353-9f6e-4e15-932f-2120d08ae3f8.png" title="Typescript React"></code>
